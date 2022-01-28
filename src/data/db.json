@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title":"Clean Cars",
+            "desc": "Wash car nicley",
+            "isComplete": true
+        },
+        {
+            "id": 2,
+            "title":"Talk To Dad",
+            "desc": "Call him at 10",
+            "isComplete": false
+        },
+        {
+            "id": 3,
+            "title":"Sleep Early",
+            "desc": "Sleep by 3am",
+            "isComplete": false
+        }
+    ]   
+}
